@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Voting Links</title>
+
 <style>
 body {
     font-family: Arial, sans-serif;
@@ -11,12 +12,15 @@ body {
     text-align: center;
     padding: 20px;
 }
+
 h1 {
     font-size: 26px;
 }
+
 p {
     font-size: 18px;
 }
+
 a.button {
     display: block;
     background: #007bff;
@@ -29,34 +33,9 @@ a.button {
     font-size: 18px;
     border-radius: 10px;
 }
+
 a.button:hover {
     background: #0056b3;
 }
 </style>
 </head>
-
-<body>
-
-<h1>🗳️ PLEASE VOTE</h1>
-<p>Each & Every Vote Matters a Lot 🙏😇</p>
-
-<a class="button" href="https://www.hashtagkalakar.net/post/the-unspoken">The Unspoken</a>
-
-<a class="button" href="https://www.hashtagkalakar.net/post/%E0%A4%B5%E0%A4%BF%E0%A4%A1%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%A8%E0%A4%BE-2">विडम्बना</a>
-
-<a class="button" href="https://www.hashtagkalakar.net/post/%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A4%BE%E0%A4%95%E0%A5%8B-%E0%A4%AE%E0%A4%AE%E0%A4%A4%E0%A4%BE%E0%A4%B2%E0%A4%BE%E0%A4%88-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%A6%E0%A5%87%E0%A4%8A">माताको ममतालाई मानिदेऊ</a>
-
-<a class="button" href="https://www.hashtagkalakar.net/post/dictatorial-democracy-of-nepal">Dictatorial Democracy of Nepal</a>
-
-<a class="button" href="https://www.hashtagkalakar.net/post/is-it">Is it?</a>
-
-<a class="button" href="https://www.hashtagkalakar.net/post/echoes-of-expectation">Echoes of Expectation</a>
-
-<a class="button" href="https://www.hashtagkalakar.net/post/academic-stress">Academic Stress</a>
-
-<a class="button" href="https://www.hashtagkalakar.net/post/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE-12">प्रेम</a>
-
-<a class="button" href="https://www.hashtagkalakar.net/post/%E0%A4%AE-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%80">म भारतीय सेनानी</a>
-
-</body>
-</html>
