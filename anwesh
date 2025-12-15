@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Voting Links</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+a {
+    display: block;
+    background-color: #0066cc;
+    color: white;
+    padding: 15px;
+    margin: 10px auto;
+    max-width: 400px;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 8px;
+}
+
+a:hover {
+    background-color: #004d99;
+}
+</style>
+</head>
+
+<body>
+
+<h1>🗳️ PLEASE VOTE</h1>
+<p>Each & Every Vote Matters 🙏</p>
+
+<a href=" https://www.hashtagkalakar.net/post/the-unspoken">Link 1</a>
+<a href="https://www.hashtagkalakar.net/post/%E0%A4%B5%E0%A4%BF%E0%A4%A1%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%A8%E0%A4%BE-2
+">Link 2</a>
+<a href="https://www.hashtagkalakar.net/post/%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A4%BE%E0%A4%95%E0%A5%8B-%E0%A4%AE%E0%A4%AE%E0%A4%A4%E0%A4%BE%E0%A4%B2%E0%A4%BE%E0%A4%88-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%A6%E0%A5%87%E0%A4%8A">Link 3</a>
+<a href="https://www.hashtagkalakar.net/post/dictatorial-democracy-of-nepal">Link 4</a>
+<a href="https://www.hashtagkalakar.net/post/is-it">Link 5</a>
+<a href="https://www.hashtagkalakar.net/post/echoes-of-expectation">Link 6</a>
+<a href="https://www.hashtagkalakar.net/post/academic-stress
+">Link 7</a>
+<a href="https://www.hashtagkalakar.net/post/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE-12
+">Link 8</a>
+<a href="https://www.hashtagkalakar.net/post/%E0%A4%AE-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%80
+">Link 9</a>
+<a href="https://www.hashtagkalakar.net/post/%E0%A4%AE%E0%A5%88%E0%A4%82-%E0%A4%95-%E0%A4%A8-%E0%A4%B9%E0%A5%82%E0%A4%82
+">Link 10</a>
+
+</body>
+</html>
